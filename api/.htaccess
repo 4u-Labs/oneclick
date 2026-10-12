@@ -1,0 +1,3 @@
+<FilesMatch "\.(py|onnx)$">
+Require all denied
+</FilesMatch>
