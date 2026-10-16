@@ -93,3 +93,16 @@ For production, use a proper static/PHP web server and Python runtime. Block dir
 
 Desenvolvido por **Fabiano Braga — 4U.IA.BR**.  
 [Portal](https://4u.ia.br/) · [GitHub](https://github.com/4u-Labs) · [Blog](https://4u-labs.github.io/) · [Ajuda / Help](https://4u.ia.br/suporte.html) · [Apoiar / Support](https://www.paypal.com/ncp/payment/L7YRCS984T33N)
+
+---
+
+## 📄 Licença & Termos de Uso / License
+
+Este projeto é distribuído sob o modelo **Source-Available** (código disponível publicamente para consulta, aprendizado e auditoria técnica).
+
+* ✅ **Permitido:** Estudo pessoal, aprendizado, testes locais e auditoria de código.
+* ❌ **Proibido:** Uso comercial (direto ou indireto), redistribuição, revenda ou criação de produtos derivados sem autorização prévia por escrito.
+
+Todos os direitos autorais e patrimoniais pertencem à **4U** (4u.ia.br). Para detalhes completos e condições legais, consulte o arquivo [LICENSE](LICENSE).
+
+Para parcerias ou licenciamento de uso comercial do motor do OneClick AI, entre em contato através de [4u.ia.br](https://4u.ia.br).
